@@ -1,0 +1,23 @@
+.array-container {
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    height: 500px;
+    margin: 20px auto;
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+}
+
+.array-bar {
+    width: 5px;
+    margin: 0 0.5px;
+    background-color: rgb(255, 0, 0);
+    transition: height 0.1s ease;
+}
+
+.array-bar-complete {
+    width: 5px;
+    margin: 0 0.5px;
+    background-color: rgba(51, 196, 58, 0.712);
+    transition: 0.25s;
+}
