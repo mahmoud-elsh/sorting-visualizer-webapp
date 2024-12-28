@@ -1,6 +1,11 @@
-# sorting-visualizer-webapp
+# Sorting Algorithm Visualizer
+A full-stack web application built with a Flask backend and a React frontend.
 
-## Installation
+# Features
+- Visualizes various sorting algorithms (Quicksort, Bubblesort, Mergesort, etc)
+- Utilizes audio tones to exemplify sorting processes
+
+# Installation
 To run the project on your local machine:
 ### Step 1: Clone the Repository
 ```
