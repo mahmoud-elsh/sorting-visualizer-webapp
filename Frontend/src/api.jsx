@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_BASE_URL = "http://127.0.0.1:8080"; 
+const API_BASE_URL = "https://sorting-visualizer-flask.onrender.com"; 
 
 export const sortArray = async (algorithm, array) => {
     try {
