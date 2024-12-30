@@ -3,7 +3,7 @@ import './App.css'
 import Controls from './Components/Controls'
 import { sortArray } from "./api";
 import Visualizer from './Components/Visualizer'
-import Title from './Components/title'
+import Title from './Components/Title'
 import Footer from "./Components/Footer"
 import { synth } from "./synth"
 
