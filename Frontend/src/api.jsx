@@ -10,6 +10,7 @@ export const sortArray = async (algorithm, array) => {
         });
         return response.data;
     } catch (error) {
+        alert("Wait for backend to boot, please refresh page and try again");
         throw error;
     }
 };
