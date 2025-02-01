@@ -50,6 +50,11 @@ function Controls({onGenerateArray, onHandleSort, onHandleAlgorithm, isSorting, 
                     </button>
                 </div>
             </span>
+            <div>
+            <small>
+                *May need to wait for backend to boot when sorting initally
+            </small>
+            </div>
         </div>
     );
 }
