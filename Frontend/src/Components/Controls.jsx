@@ -52,7 +52,7 @@ function Controls({onGenerateArray, onHandleSort, onHandleAlgorithm, isSorting, 
             </span>
             <div>
             <small>
-                *May need to wait for backend to boot when sorting initally
+                *May need to wait for backend to boot when sorting initially
             </small>
             </div>
         </div>
